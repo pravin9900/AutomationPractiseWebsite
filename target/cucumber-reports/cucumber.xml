@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="80.82">
+    <testcase classname="Buy the product from automation practise Url" name="place the order and store order confirmation ID in excel workbook" time="80.294">
+        <system-out><![CDATA[Given open chrome driver browser and launch the automation practise url.....passed
+When I clicked on signin button.............................................passed
+And I entered Login credentials and clicked on login button.................passed
+And I entered productName in search box and clicked on search button........passed
+And I added product to the cart.............................................passed
+And I Checked out the product...............................................passed
+And I completed the payment.................................................passed
+Then I stored the order conformation ID into excel workbook.................passed
+And I clicked on sign out button............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
